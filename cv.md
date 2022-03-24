@@ -1,6 +1,6 @@
 # Ruslanbek Normurodov
 
-Junior Front End Developer
+# Junior Front End Developer
 
 ![profile picture](./avatar.jpg)
 
