@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[link to CV](https://ruslanbek92.github.io/rsschool-cv/cv)
+[link to CV](https://ruslanbek92.github.io/rsschool-cv/)
