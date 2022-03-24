@@ -2,6 +2,8 @@
 
 Junior Front End Developer
 
+![profile picture](./avatar.jpg)
+
 ## Contacts:
 
 ☎️ +998 99 457 08 92
