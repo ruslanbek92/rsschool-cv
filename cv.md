@@ -53,7 +53,7 @@ function nouveau (Constructor,...args) {
 ************************************************************
 ### Portfolio
 
-* [Shelter project from RS School](https://ruslanbek92-shelter-desktop.netlify.app/index.html)
+* [Shelter project from RS School](https://ruslanbek92-shelter-desktop.netlify.app/index.html) 
 
 ************************************************************
 ### English
